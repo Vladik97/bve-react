@@ -1,0 +1,1 @@
+export { getFullName } from './lib/core'
